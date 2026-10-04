@@ -2,7 +2,7 @@
 
 ## ReviveAfter
 
-Last updated: 27 September 2026
+Last updated: 5 October 2026
 
 This policy explains what ReviveAfter collects, why, and what happens to it. It describes the app as it actually works rather than covering things we might do one day.
 
@@ -62,7 +62,7 @@ Our lawful basis under GDPR is **performance of a contract** — we cannot provi
 
 **Anthropic** receives the details of a logged match — duration, intensity, heat, soreness, and the calculated hydration and cooldown figures — in order to write the plan text. **Your email address and name are never sent**. Anthropic does not train models on this data.
 
-**RevenueCat**, together with **Apple** or **Google**, handles subscriptions. They receive an anonymous identifier and your purchase status. Payment card details go directly to Apple or Google and never reach us.
+**RevenueCat**, together with **Apple** or **Google**, handles subscriptions. They receive your account identifier (not your email address) and your purchase status. Payment card details go directly to Apple or Google and never reach us.
 
 We do not sell your data. We do not share it with advertisers. We have no analytics SDK in the app.
 
