@@ -1,8 +1,9 @@
 # Delete your ReviveAfter account
 
-To delete your ReviveAfter account and all your data, email **roshaanzafar619@gmail.com** from the address you registered with, asking for your account to be deleted.
+In the app: open ReviveAfter → Settings → Delete account, and confirm. Your account and all your data are deleted immediately.
 
-We will action it within 30 days.
+If you can't access the app, email roshaanzafar619@gmail.com from the address you signed up with, and we'll delete it within 30 days.
+
 
 ## What gets deleted
 
