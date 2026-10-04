@@ -70,7 +70,7 @@ We do not sell your data. We do not share it with advertisers. We have no analyt
 
 Your data is kept while your account exists. If you ask us to delete your account we remove your profile, all logged matches, all check-ins, and all generated plans. Deletion is permanent and we cannot recover it afterwards.
 
-Email roshaanzafar619@gmail.com to request deletion. We will action it within 30 days.
+You can delete your account at any time in the app under Settings → Delete account. This removes everything immediately. You can also email roshaanzafar619@gmail.com to request deletion, and we will action it within 30 days.
 
 ## Your rights
 
