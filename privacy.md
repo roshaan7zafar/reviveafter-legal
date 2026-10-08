@@ -66,9 +66,9 @@ Our lawful basis under GDPR is **performance of a contract** — we cannot provi
 
 We do not sell your data. We do not share it with advertisers. We have no analytics SDK in the app.
 
-Sentry (crash reports): if the app crashes, technical details about the crash, such as the device model and which part of the code failed, are sent to Sentry so we can fix it. These reports don't include your email, account ID, or any health data.
+**Sentry** (crash reports): if the app crashes, technical details about the crash, such as the device model and which part of the code failed, are sent to Sentry so we can fix it. These reports don't include your email, account ID, or any health data.
 
-Google (Gmail): password-reset emails are sent from our Gmail account, so Google processes the message and your email address to deliver it.
+**Google** (Gmail): password-reset emails are sent from our Gmail account, so Google processes the message and your email address to deliver it.
 
 ## How long we keep it
 
