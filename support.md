@@ -25,3 +25,7 @@ To delete your account and all your data, see [Delete your account](https://rosh
 ## A note on health
 
 ReviveAfter gives general wellness guidance, not medical advice. If something hurts or you're injured, see a professional.
+
+## Forgot your password?
+
+Tap Forgot password? on the sign-in screen and enter your email. We'll send you a 6-digit code to set a new password.
