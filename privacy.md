@@ -2,7 +2,7 @@
 
 ## ReviveAfter
 
-Last updated: 5 October 2026
+Last updated: 8 October 2026
 
 This policy explains what ReviveAfter collects, why, and what happens to it. It describes the app as it actually works rather than covering things we might do one day.
 
@@ -65,6 +65,10 @@ Our lawful basis under GDPR is **performance of a contract** — we cannot provi
 **RevenueCat**, together with **Apple** or **Google**, handles subscriptions. They receive your account identifier (not your email address) and your purchase status. Payment card details go directly to Apple or Google and never reach us.
 
 We do not sell your data. We do not share it with advertisers. We have no analytics SDK in the app.
+
+Sentry (crash reports): if the app crashes, technical details about the crash, such as the device model and which part of the code failed, are sent to Sentry so we can fix it. These reports don't include your email, account ID, or any health data.
+
+Google (Gmail): password-reset emails are sent from our Gmail account, so Google processes the message and your email address to deliver it.
 
 ## How long we keep it
 
